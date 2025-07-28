@@ -9,3 +9,6 @@
 .dark-theme .logo-area h2 {
     color: #fff;
 }
+.gear-box {
+    display: none;
+}
