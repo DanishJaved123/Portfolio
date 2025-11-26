@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge" />
+	<meta name="keywords"
+		content="agency, photography, business, company, consulting, corporate, creative, designer, digital marketing, elementor, industry, portfolio, studio, web design">
+	<meta name="description" content="Persoanl Portfolio">
+	<title>Danish Javed – Professional Web Developer | Modern & Responsive Web Solutions</title>
+	<meta property="og:site_name" content="Logistics">
+	<meta property="og:url" content="">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Qurifolio - Personal Portfolio HTML5 Template">
+	<meta name='og:image' content='images/assets/ogg.png'>
+	<!-- For IE -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- For Resposive Device -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- For Window Tab Color -->
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#913BFF">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#913BFF">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#913BFF">
+
+	<!-- <link rel="manifest" href="site.webmanifest" /> -->
+	<link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png" />
+	<!-- Place favicon.ico in the root directory -->
+
+	<!-- CSS here -->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="assets/fonts/bootstrap-icons/font-css.css" />
+	<link rel="stylesheet" href="assets/css/slick.css" />
+	<link rel="stylesheet" href="assets/css/magnific-popup.css" />
+	<link rel="stylesheet" href="assets/css/spacing.css" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body class="dark-bg">
+	<!-- main-page-wrapper start -->
+	<div class="main-page-wrapper">
+		<!--[if lte IE 9]> <p class="browserupgrade"> You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security. </p> <![endif]-->
+
+		<!-- Add your site or application content here -->
+
+		<!-- Gearbox content here -->
+		<div class="gear-box">
+			<div class="icon">
+				<span class="gear-icon"><i class="bi bi-gear"></i></span>
+				<span class="close-icon"><i class="bi bi-x-lg"></i></span>
+			</div>
+			<h5 class="text-white fw-medium">Mode</h5>
+			<div class="color-mode">
+				<input type="checkbox" class="checkbox" id="checkbox">
+				<label for="checkbox" class="checkbox-label">
+					<i class="bi bi-moon-fill"></i>
+					<i class="bi bi-sun-fill"></i>
+					<span class="ball"></span>
+				</label>
+			</div>
+
+		</div>
+		<!-- header-area start -->
+		<header class="theme-main-menu theme-menu-one pt-35 pb-30">
+			<div class="main-header-area">
+				<div class="container-fluid">
+					<div class="row align-items-center">
+						<div class="col-xl-3 col-lg-2 col-6">
+							<div class="logo-area">
+								<h2>Danish</h2>
+							</div>
+						</div>
+						<div class="col-xl-7 col-lg-7 col-6 d-none d-lg-block">
+							<div class="main-menu d-none d-lg-block ps-xxl-5">
+								<nav id="mobile-menu">
+									<ul class="menu-list ps-0">
+										<li>
+											<a href="#">
+												Home
+											</a>
+
+										</li>
+										<li>
+											<a href="#about">About Us</a>
+										</li>
+										<li>
+											<a href="#services">Services</a>
+
+										</li>
+										<li>
+											<a href="#portfolio">Portfolio</a>
+
+										</li>
+
+										<li>
+											<a href="#contact">contact</a>
+										</li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+						<div class="col-xl-2 col-lg-3 col-6">
+							<div class="right-nav d-flex align-items-center justify-content-end">
+								<div class="quote__btn d-none d-sm-inline-block">
+									<a href="assets/Danish Javed.pdf" id="downloadBtn" class="ht_btn">Download CV</a>
+								</div>
+								<div class="search-area me-4 d-none">
+									<a class="search_input" href="#" data-bs-toggle="offcanvas"
+										data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">
+										<i class="bi bi-search"></i>
+									</a>
+								</div>
+								<div class="hamburger-menu d-lg-none d-md-inline-block ms-3">
+									<a class="round-menu" href="javascript:void(0);">
+										<div class="line"></div>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /.theme-main-menu -->
+		</header>
+		<!-- header-area end -->
